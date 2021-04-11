@@ -5,6 +5,7 @@
 }
 .nav ul{
     list-style-type: none;
+    float: left;
 }
 .nav{
     background-color: red;
