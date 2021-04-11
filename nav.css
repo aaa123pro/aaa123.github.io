@@ -1,0 +1,12 @@
+.nav ul li{
+    float: left;
+    width: 120px;
+    height: 50px;
+}
+.nav ul{
+    list-style-type: none;
+}
+.nav{
+    background-color: red;
+    height: 50px;
+}
